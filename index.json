@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "official_pub": "file:///home/xzc/桌面/测试/hpm-repo/official.pub",
+  "developers": {
+    "alice": {
+      "pub": "file:///home/xzc/桌面/测试/hpm-repo/alice/alice.pub",
+      "pub_sig": "file:///home/xzc/桌面/测试/hpm-repo/alice/alice.pub.sig"
+    }
+  },
+  "packages": {
+    "ch552g": {
+      "versions": {
+        "1.0.0": {
+          "kind": "chip",
+          "developer": "alice",
+          "url": "file:///home/xzc/桌面/测试/hpm-repo/alice/ch552g-1.0.0.tar.gz",
+          "sig_url": "file:///home/xzc/桌面/测试/hpm-repo/alice/ch552g-1.0.0.tar.gz.sig",
+          "sha256": "b28131c1de13cd97e71301e12163c5d77b28d6f9fa6808ec5ebc2d54b5d389a2",
+          "size": 14011,
+          "license": "MIT",
+          "requires": {}
+        }
+      }
+    },
+    "ch552_usb_cdc": {
+      "versions": {
+        "1.0.0": {
+          "kind": "driver",
+          "developer": "alice",
+          "url": "file:///home/xzc/桌面/测试/hpm-repo/alice/ch552_usb_cdc-1.0.0.tar.gz",
+          "sig_url": "file:///home/xzc/桌面/测试/hpm-repo/alice/ch552_usb_cdc-1.0.0.tar.gz.sig",
+          "sha256": "58929a9819c475915719b8a79182e6ea254295fb127249ed43d0a4b077da162b",
+          "size": 20458,
+          "license": "MIT",
+          "requires": {}
+        }
+      }
+    }
+  }
+}
