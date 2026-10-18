@@ -15,8 +15,8 @@
           "developer": "alice",
           "url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552g-1.0.0.tar.gz",
           "sig_url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552g-1.0.0.tar.gz.sig",
-          "sha256": "b28131c1de13cd97e71301e12163c5d77b28d6f9fa6808ec5ebc2d54b5d389a2",
-          "size": 14011,
+          "sha256": "57617365374952deb812908de6956d1c36726deaa40f260d85e4d797968c9460",
+          "size": 13912,
           "license": "MIT",
           "requires": {}
         }
@@ -29,8 +29,8 @@
           "developer": "alice",
           "url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552_usb_cdc-1.0.0.tar.gz",
           "sig_url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552_usb_cdc-1.0.0.tar.gz.sig",
-          "sha256": "58929a9819c475915719b8a79182e6ea254295fb127249ed43d0a4b077da162b",
-          "size": 20458,
+          "sha256": "2a939957add62254e5b8d0f0d28c153a26c501921eee677fdd3f6cefcf244971",
+          "size": 20084,
           "license": "MIT",
           "requires": {}
         }
