@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "official_pub": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/official.pub",
+  "official_pub": "{baseurl}/official.pub",
   "developers": {
     "alice": {
-      "pub": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/alice.pub",
-      "pub_sig": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/alice.pub.sig"
+      "pub": "{baseurl}/alice/alice.pub",
+      "pub_sig": "{baseurl}/alice/alice.pub.sig"
     }
   },
   "packages": {
@@ -13,8 +13,8 @@
         "1.0.0": {
           "kind": "chip",
           "developer": "alice",
-          "url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552g-1.0.0.tar.gz",
-          "sig_url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552g-1.0.0.tar.gz.sig",
+          "url": "{baseurl}/alice/ch552g-1.0.0.tar.gz",
+          "sig_url": "{baseurl}/alice/ch552g-1.0.0.tar.gz.sig",
           "sha256": "57617365374952deb812908de6956d1c36726deaa40f260d85e4d797968c9460",
           "size": 13912,
           "license": "MIT",
@@ -27,8 +27,8 @@
         "1.0.0": {
           "kind": "driver",
           "developer": "alice",
-          "url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552_usb_cdc-1.0.0.tar.gz",
-          "sig_url": "https://raw.githubusercontent.com/xzc842/hpm-repo/main/alice/ch552_usb_cdc-1.0.0.tar.gz.sig",
+          "url": "{baseurl}/alice/ch552_usb_cdc-1.0.0.tar.gz",
+          "sig_url": "{baseurl}/alice/ch552_usb_cdc-1.0.0.tar.gz.sig",
           "sha256": "2a939957add62254e5b8d0f0d28c153a26c501921eee677fdd3f6cefcf244971",
           "size": 20084,
           "license": "MIT",
