@@ -43,8 +43,8 @@
           "developer": "xzc",
           "url": "{baseurl}/xzc/pwm-1.0.0.tar.gz",
           "sig_url": "{baseurl}/xzc/pwm-1.0.0.tar.gz.sig",
-          "sha256": "22890af886d4a89b1e3b1ab6562c64649c85443d5a98aad266224b8ca972d899",
-          "size": 1554,
+          "sha256": "c828478a933425f5e49d64a4a93670955dbb451e9124103f24f75d4a1395271f",
+          "size": 1200,
           "license": "MIT",
           "requires": {
             "pin": {
@@ -100,8 +100,8 @@
           "developer": "xzc",
           "url": "{baseurl}/xzc/stc90c51-0.1.0.tar.gz",
           "sig_url": "{baseurl}/xzc/stc90c51-0.1.0.tar.gz.sig",
-          "sha256": "9717ac618c8c0da05cf04b21f04985e3a6a23bc1e6267aa36a6fd5a2f9c4d7fd",
-          "size": 1848,
+          "sha256": "45cfeaddb06b56208739c4593a791d00ffce69865488f0f7ac62fa3463f41873",
+          "size": 3126,
           "license": "MIT",
           "requires": {}
         }
@@ -130,6 +130,20 @@
           "sig_url": "{baseurl}/xzc/stm32f103c8t6_usb_cdc-1.0.0.tar.gz.sig",
           "sha256": "c8a3da674fcc42c46209284a0507845f1b0200f75c9973b3a6f3d387d061eb75",
           "size": 31177,
+          "license": "MIT",
+          "requires": {}
+        }
+      }
+    },
+    "time": {
+      "versions": {
+        "1.0.0": {
+          "kind": "driver",
+          "developer": "xzc",
+          "url": "{baseurl}/xzc/time-1.0.0.tar.gz",
+          "sig_url": "{baseurl}/xzc/time-1.0.0.tar.gz.sig",
+          "sha256": "27574853631412237c82ef06a5ee85c87b9ae5543009066b10dd25cd45688106",
+          "size": 1306,
           "license": "MIT",
           "requires": {}
         }
